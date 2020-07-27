@@ -1,0 +1,1 @@
+Creo este repositorio con el fin de guardar mis avances sobre react y reactnative, este repositorio alojara, apuntes sobre las características de react y código de prueba de esta librería. 
